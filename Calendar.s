@@ -127,7 +127,7 @@ bis3:
 
 
 
-modulo:			#en t9 se encontrar· el mÛdulo
+modulo:			#en t9 se encontrar√° el m√≥dulo
 	li $t0,1
 	beq $t0,$t8, modbis
 	sll $s6,$t6,2
